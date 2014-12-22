@@ -1,0 +1,21 @@
+ENTENDIENDO EL CONTROL DE VERSIONES.
+
+Git es un software que te permite alamcenar el curso de los cambios que tu haces a los archivos y directorios, y es especialmente bueno
+en guardar los cambios que haces en el texto. Imagina que tienes un documento, tienes la version 1 de ese documento, despues haces unos cambios
+en el documento, ahora tu tienes una version 2 diferente de la primera, luego haces algunos cambios mas, ahora tienes una version 3.
+Bueno Git guarda esas tres versiones para ti, y te permite moverte entre diferentes versiones, para comparar versiones y para ver los cambios entre
+ellas.
+
+Porque lo que haces Git es administrar tus versiones, se refieren a Git como Version Control System o VCS. La mayoria de las VCS tienen como
+objetivo primario administrar el codigo fuente. Codigo de computadora que los programadores y desarrolladores escriben para crear programas.
+Ellos desean ver las cambios que hicieron antes como agregar caracteristicas, corregir errores, y esa clase de cosas.
+
+El 90 o 95 porciento del tiempo VCSs son usados para administrar el codigo de un proyecto. Asi que llamaremos a estas herramientas como:
+Source Code Managent Tools ot SCM. SCM un VCS pero inidicado que lo usamos para administrar codigo fuente.
+
+Existen diferents VCS que tal vez hayas usado un ejemplo muy comun es la Wikipedia, cuando alguien hace una modificacion en una pagina de wikipedia
+los administradores tienen la habilidad de  deshacer los cambios y regresar a la version previa, si es necesario.
+
+Y por supuesto tambien tenemos los ejemplos mas comunes como Undo,Ctrl+Z en Windows, o Command+Z en MAC.
+
+Eso solo unas metaforas de lo que puedes hacer con un VCS pero no se compara a lo que se puede hacer con Git.
