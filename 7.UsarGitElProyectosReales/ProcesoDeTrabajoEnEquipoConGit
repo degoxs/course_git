@@ -1,0 +1,12 @@
+Trabajar en equipo.
+
+        Para usar git en equipo es necsario usar el comando "git fetch" para obtener los cambios
+        hechos por otros miembros. Entonces trataria de llevar a cabo un "git merge" lo cual unira
+        los cambios en tu proyecto localmente.
+        Si la union de los cambios no es exitosa ncesitaras resolver los conflictos. Entonces
+        estas listo para ejecutar "git push" y los otros miembros necesitaran actualizar sus proyectos con  
+        tus cambios antes que hagan "suban" push.
+        p.S Si se tienen problemas con este proceso puedes usar un cliente de git visual como
+        GitHub, Tower, SmartGit, etc..
+
+
